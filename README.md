@@ -8,7 +8,7 @@ repo til að halda utanum kóða og gögn fyrir verkefnið
 
 meðlimir hópur 21
 
-Ármann Schelander
-Jóhann Chanse 
-Katrín Sigurðardóttir
-Máni Eiðsson
+- Ármann Schelander
+- Jóhann Chanse Sigurðsson
+- Katrín Sigurðardóttir
+- Máni Eiðsson
