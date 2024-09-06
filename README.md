@@ -5,8 +5,9 @@ repo til að halda utanum kóða og gögn fyrir verkefnið
 
 (deploya repo t.d. á netlify eða react til að gera verkið aðgengilegt á netinu)
 
+Hópur 21
 
-meðlimir hópur 21
+meðlimir: 
 
 - Ármann Schelander
 - Jóhann Chanse Sigurðsson
