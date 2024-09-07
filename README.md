@@ -1,7 +1,7 @@
 # HBV501G21
-Hugbúnaðar verkefni 1
+Hugbúnaðarverkefni 1
 
-repo til að halda utanum kóða og gögn fyrir verkefnið
+repo til að halda utan um kóða og gögn fyrir verkefnið
 
 (deploya repo t.d. á netlify eða react til að gera verkið aðgengilegt á netinu)
 
