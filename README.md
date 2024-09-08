@@ -1,5 +1,5 @@
 # HBV501G21
-Hugbúnaðarverkefni 1
+Hugbúnaðarverkefni 1 - fork 1
 
 repo til að halda utan um kóða og gögn fyrir verkefnið
 
